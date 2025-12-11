@@ -59,6 +59,6 @@
 - `messages.json` and `settings.json` — local data storage (not committed in git)
 ---
 
-![Интерфейс](screenshots/2.png)
+![Интерфейс](screenshot/2.png)
 
 ---
