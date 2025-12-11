@@ -1,4 +1,4 @@
-﻿# Telegram Auto Poster
+﻿# Telegram Auto Poster (WinForm)
 ---
 - Приложение для автоматической отправки сообщений в Telegram через бота
 ---
